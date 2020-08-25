@@ -2,7 +2,7 @@ import 'package:animate_do/animate_do.dart';
 import 'package:cantinera/Input/Edicion.dart';
 import 'package:flutter/material.dart';
 import 'dart:math';
-
+//borrar luego
 class Cartesianas extends StatefulWidget {
 
   @override
